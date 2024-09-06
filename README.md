@@ -17,6 +17,7 @@ I am currently studying a Degree in **Computer Engineering** at UNIR.
 
 ## :rocket: Technologies
 <div align="center">
+<img src="https://img.shields.io/badge/Unity-999999?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 
 ## :hammer_and_wrench: Tools
@@ -33,14 +34,4 @@ I am currently studying a Degree in **Computer Engineering** at UNIR.
 <a href="https://www.linkedin.com/in/isabela-t-1241b2321/" target="blank"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/> </a>
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Isabela-Tellez/Isabela-Tellez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isabela-Tellez&show_icons=true&theme=radical)
