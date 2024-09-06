@@ -17,12 +17,15 @@ I am currently studying a Degree in **Computer Engineering** at UNIR.
 
 ## :rocket: Technologies
 <div align="center">
-<img src="https://img.shields.io/badge/Unity-999999?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/Photoshop-1A66CC?style=for-the-badge&logo=photoshop&logoColor=white">
 </div>
 
 ## :hammer_and_wrench: Tools
 <div>
+<img src="https://img.shields.io/badge/Adobe-DB0000?style=for-the-badge&logo=adobe&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/3dsMax-0979B0?style=for-the-badge&logo=3dsmax&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
