@@ -30,7 +30,7 @@ I am currently studying a Degree in **Computer Engineering** at UNIR.
 <a href="mailto:isatepo01@gmail.com" target="blank"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/> </a>
 
-<a href=https://www.linkedin.com/in/isabela-t-1241b2321/" target="blank"> 
+<a href="https://www.linkedin.com/in/isabela-t-1241b2321/" target="blank"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/> </a>
 
 - 👀 I’m interested in ...
