@@ -10,7 +10,7 @@
 I am currently studying a Degree in **Computer Engineering** at UNIR.
 
 ## 	:computer: Courses
-- Computer Engineering | Universidad Internacional de la Rioja (UNIR) 2024
+- Computer Engineering | International University of La Rioja (UNIR) 2024
 - Higher Grade FP, 3D Animation, Games and Interactive Environments | Obicex Foundation 2022 - 2024
 - Master, Video Game Programming with Unity | Obicex Foundation 2022 - 2024
 - Master, VR (Virtual Reality) and AR (Augmented Reality) 2022 - 2024
