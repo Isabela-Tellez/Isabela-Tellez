@@ -23,11 +23,11 @@ I am currently studying a Degree in **Computer Engineering** at UNIR.
 
 ## :hammer_and_wrench: Tools
 <div>
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=microsoftvisualtudio&logoColor=white">
 <img src="https://img.shields.io/badge/3dsMax-0979B0?style=for-the-badge&logo=autodesk3dsmax&logoColor=white">
-<img src="https://img.shields.io/badge/AdobePhotoshop-1A66CC?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/AdobePhotoshop-151E3D?style=for-the-badge&logo=adobephotoshop&logoColor=00CDFF">
 <img src="https://img.shields.io/badge/AdobeIllustrator-341100?style=for-the-badge&logo=adobeillustrator&logoColor=yellow">
-<img src="https://img.shields.io/badge/AdobePremierePro-1A66CC?style=for-the-badge&logo=adobepremierepro&logoColor=purple">
+<img src="https://img.shields.io/badge/AdobePremierePro-EA80FC?style=for-the-badge&logo=adobepremierepro&logoColor=4A148C">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
