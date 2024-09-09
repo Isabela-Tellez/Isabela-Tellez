@@ -26,8 +26,11 @@ I am currently studying a Degree in **Computer Engineering** at UNIR.
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=microsoftvisualtudio&logoColor=white">
 <img src="https://img.shields.io/badge/3dsMax-0979B0?style=for-the-badge&logo=autodesk3dsmax&logoColor=white">
 <img src="https://img.shields.io/badge/AdobePhotoshop-151E3D?style=for-the-badge&logo=adobephotoshop&logoColor=00CDFF">
+<img src="https://img.shields.io/badge/AdobeAfterEffects-805AE7?style=for-the-badge&logo=adobeaftereffects&logoColor=340454">
 <img src="https://img.shields.io/badge/AdobeIllustrator-341100?style=for-the-badge&logo=adobeillustrator&logoColor=yellow">
-<img src="https://img.shields.io/badge/AdobePremierePro-EA80FC?style=for-the-badge&logo=adobepremierepro&logoColor=4A148C">
+<img src="https://img.shields.io/badge/AdobePremierePro-805AE7?style=for-the-badge&logo=adobepremierepro&logoColor=340454">
+<img src="https://img.shields.io/badge/AdobeSubstance3D-203500?style=for-the-badge&logo=adobesubstance3dpainter&logoColor=7ff233">
+<img src="https://img.shields.io/badge/AdobeAnimate-805AE7?style=for-the-badge&logo=adobeanimate&logoColor=340454">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
