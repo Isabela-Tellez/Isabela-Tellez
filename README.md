@@ -2,6 +2,19 @@
 <h1 align="center">👋 Hello, I’m Isabela Téllez </h1>
 </div>
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=Isabela-Tellez&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<!---
+		<a href = "https://commits.top/europe.html" target="_blank">
+			<img src="https://aktive.tk/egypt/Isabela-Tellez?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+		</a>
+	-->
+	<a href = "https://commits.top/europe.html" target="_blank">
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Isabela-Tellez" target="_blank" height=25px, width=250px/> 
+	</a>
+
+</p>
+
 <p align="center">
 <img src="https://cdna.artstation.com/p/assets/images/images/066/835/716/large/safira-dragon-gxaura.jpg?1693903686"/>
 </p>
@@ -58,18 +71,34 @@ I am currently studying a Degree in **Computer Engineering** at UNIR.
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![Isabela-Tellez github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Isabela-Tellez&theme=github)](https://github.com/Isabela-Tellez/github-readme-activity-graph)
-
  
 </details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Isabela-Tellez&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+
+[![@Isabela-Tellez Holopin board](https://holopin.io/api/user/board?user=Isabela-Tellez)](https://holopin.io/@Isabela-Tellez)
+	
+</details>
+	
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+  <a href="https://github.com/Isabela-Tellez/JuegoPlatforms_Isabela">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabela-Tellez&repo=JuegoPlatforms_Isabela&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  
+ </p>
+</div>
+</details>
+
+</br></br>	
 
 ## Contact me: 
 <div>
