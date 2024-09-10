@@ -2,21 +2,18 @@
 <h1 align="center">👋 Hello, I’m Isabela Téllez </h1>
 </div>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Isabela-Tellez&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/europe.html" target="_blank">
-			<img src="https://aktive.tk/egypt/Isabela-Tellez?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/europe.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Isabela-Tellez" target="_blank" height=25px, width=250px/> 
-	</a>
-
-</p>
-
 <p align="center">
 <img src="https://cdna.artstation.com/p/assets/images/images/066/835/716/large/safira-dragon-gxaura.jpg?1693903686"/>
+</p>
+
+## ☎️ Contact me: 
+<div>
+	<p align="center">
+ <a href="mailto:isatepo01@gmail.com" target="blank"> 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/> </a>
+
+<a href="https://www.linkedin.com/in/isabela-t-1241b2321/" target="blank"> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/> </a>
 </p>
 
 ## 	:books: Studies
@@ -99,13 +96,3 @@ I am currently studying a Degree in **Computer Engineering** at UNIR.
 </details>
 
 </br></br>	
-
-## Contact me: 
-<div>
-<a href="mailto:isatepo01@gmail.com" target="blank"> 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/> </a>
-
-<a href="https://www.linkedin.com/in/isabela-t-1241b2321/" target="blank"> 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/> </a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isabela-Tellez&show_icons=true&theme=radical)
