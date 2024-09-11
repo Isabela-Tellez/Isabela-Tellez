@@ -6,7 +6,11 @@
 <img src="https://cdna.artstation.com/p/assets/images/images/066/835/716/large/safira-dragon-gxaura.jpg?1693903686"/>
 </p>
 
-## ☎️ Contact me: 
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=Isabela-Tellez&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+
+## ☎️ Contact me
 <div>
 	<p align="center">
  <a href="mailto:isatepo01@gmail.com" target="blank"> 
