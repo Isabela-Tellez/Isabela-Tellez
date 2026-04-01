@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<img src= "https://raw.githubusercontent.com/usuario/repositorio/main/Gemini_Generated_Image_op6l8rop6l8rop6l.png"
+<img src="Gemini_Generated_Image_op6l8rop6l8rop6l.png"/>
 />
 </p>
 
