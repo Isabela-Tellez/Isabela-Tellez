@@ -3,7 +3,8 @@
 </div>
 
 <p align="center">
-<img src="https://cdna.artstation.com/p/assets/images/images/066/835/716/large/safira-dragon-gxaura.jpg?1693903686"/>
+<img src="https://raw.githubusercontent.com/Isabela-Tellez/Isabela-Tellez/master/assets/Gemini_Generated_Image_op6l8rop6l8rop6l"
+/>
 </p>
 
 <p align = "center">
