@@ -2,7 +2,7 @@
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="15%" align="center">
-        <img src="Gemini_Generated_Image_giido8giido8giid.png" width="120px" style="border-radius: 50%;" alt="Profile Picture"/>
+        <img src="ProfilePhoto.jpg" width="120px" style="border-radius: 50%;" alt="Profile Picture"/>
       </td>
       <td width="85%" align="left" style="padding-left: 20px;">
         <h1>👋 ¡Hola! Soy Isabela Téllez Poved</h1>
@@ -105,7 +105,7 @@
 	  <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #0d1117;">
       <br/>
       <blockquote align="left" style="margin: 0; padding-left: 10px; border-left: 3px solid #7aa2f7;">
-        <i>"El código limpio siempre parece que ha sido escrito por alguien a quien le importa."</i>
+        <img src="MySpace.jpg" width="120px" style="border-radius: 50%;" alt="Space Picture"/>
       </blockquote>
     </td>
   </tr>
