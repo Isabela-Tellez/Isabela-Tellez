@@ -2,7 +2,7 @@
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="15%" align="center">
-        <img src="ProfilePhoto.jpg" width="120px" style="border-radius: 50%;" alt="Profile Picture"/>
+        <img src="ProgrammingGif.gif" width="120px" style="border-radius: 50%;" alt="Profile Gif"/>
       </td>
       <td width="85%" align="left" style="padding-left: 20px;">
         <h1>👋 ¡Hola! Soy Isabela Téllez Poved</h1>
