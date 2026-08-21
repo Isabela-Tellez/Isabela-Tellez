@@ -25,7 +25,7 @@
   * Grado en **Ingeniería Informática** | Universidad Internacional de La Rioja (UNIR) (2024 - Actualidad)
   * FP Grado Superior en Animación 3D, Juegos y Entornos Interactivos | Fundación Obicex (2022 - 2024).
 * **📚 Cursos & Especializaciones:**
-  * Certifiecado Scrum Developer (CSD) | Global Knowledge (2026)
+  * Certificado Scrum Developer (CSD) | Global Knowledge (2026)
   * Curso de Programación Python & Preparación AWS Cloud Practitioner | UNIR (2024 - 2025).
   * Máster en Programación de Videojuegos con Unity, Realidad Virtual (VR) y Aumentada (AR) | Fundación Obicex (2024).
 * **🌍 Idiomas:** Castellano (Nativo) | Inglés (B2).
