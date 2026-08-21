@@ -21,12 +21,13 @@
 
 ## 👩‍💻 Sobre mí
 * **🌱 Formación:**
-  * Grado en **Ingeniería Informática** en la Universidad Internacional de La Rioja (UNIR)
-  * Bootcamp en **Inteligencia Artificial y Python** en Somos F5 (1250h).
-* **📚 Cursos & Especializaciones:**
-  * Curso de Programación Python & Preparación AWS Cloud Practitioner | UNIR (2024 - 2025).
-  * Máster en Programación de Videojuegos con Unity, Realidad Virtual (VR) y Aumentada (AR) (2024).
+  * Bootcamp en **Inteligencia Artificial y Python** | Somos F5 (1250h) (2026)
+  * Grado en **Ingeniería Informática** | Universidad Internacional de La Rioja (UNIR) (2024 - Actualidad)
   * FP Grado Superior en Animación 3D, Juegos y Entornos Interactivos | Fundación Obicex (2022 - 2024).
+* **📚 Cursos & Especializaciones:**
+  * Certifiecado Scrum Developer (CSD) | Global Knowledge (2026)
+  * Curso de Programación Python & Preparación AWS Cloud Practitioner | UNIR (2024 - 2025).
+  * Máster en Programación de Videojuegos con Unity, Realidad Virtual (VR) y Aumentada (AR) | Fundación Obicex (2024).
 * **🌍 Idiomas:** Castellano (Nativo) | Inglés (B2).
 * **🎯 Mi meta:** Fusionar la ingeniería de software con el desarrollo multimedia y de videojuegos.
 
